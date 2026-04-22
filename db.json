@@ -3,14 +3,38 @@
         {
             "id":1,
             "nome":"Mtec-PI Desenvolvimento de Sistemas",
-            "disciplinas":["PAM II", "WEB III", "BD"],
-            "carga-horaria": 3600
+            "disciplinas":["PAM II", "WEB III", "BD", "IPSS", "SE"],
+            "carga-horaria": 1200,
+            "duração/semestre": 3,
+            "tipo-de-curso": "Articulação da Formação Profissional Média e Superior",
+            "eixo-tecnologico": "Informação e Comunicação"    
         },
         {
             "id":2,
             "nome":"Mtec-N Informática",
-            "disciplinas":["PAM II", "WEB III", "BD"],
-            "carga-horaria": 3600      
-        }
+            "disciplinas":["DSI", "LLP", "BD", "ECO", "FTIR"],
+            "carga-horaria": 1200,
+            "duração/semestre": 3,
+            "tipo-de-curso": "Cursos Técnicos - Modalidade Presencial",
+            "eixo-tecnologico": "Informação e Comunicação"    
+        },
+        {
+            "id":3,
+            "nome":"Mtec-N Informática para Internet",
+            "disciplinas":["DWEB", "Design", "BD", "MI", "MA"],
+            "carga-horaria": 1200,
+            "duração/semestre": 3,
+            "tipo-de-curso": "Articulação da Formação Profissional Média e Superior",
+            "eixo-tecnologico": "Informação e Comunicação"    
+        },
+        {
+            "id":4,
+            "nome":"Curso Técnico - Modalidade Presencial de Desenvolvimento de Sistemas",
+            "disciplinas":["PAM II", "WEB III", "BD", "IPSS", "SE"],
+            "carga-horaria": 1200,
+            "duração/semestre": 3,
+            "tipo-de-curso": "Articulação da Formação Profissional Média e Superior",
+            "eixo-tecnologico": "Informação e Comunicação"    
+        },
     ]
 }
